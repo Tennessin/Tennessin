@@ -34,4 +34,4 @@
 
 <h2 align="center">Stats</h2>
 
-![Trapstar-UK's GitHub stats](https://github-readme-stats.vercel.app/api?username=trapstar-uk&count_private=true&show_icons=true&theme=onedark)
+![Trapstar-UK's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tennessin&count_private=true&show_icons=true&theme=onedark)
