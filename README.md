@@ -23,7 +23,8 @@
 
 (Newest -> Oldest)
 - [Proper British Roleplay](https://discord.gg/pbrp) *(FiveM UK based Serious Roleplay Server)*
-- [British Studios](https://britishstudios.tebex.io/)) *(British based 3D development & Modding Hub)*
+- [British Studios](https://britishstudios.tebex.io/) *(British based 3D development & Modding Hub)*
+- [British Life Roleplay](https://britishstudios.tebex.io/) *(FiveM UK based Serious Roleplay Server)*
 
 
 
