@@ -1,6 +1,6 @@
-<h1>Trap$tar</h1>
+<h1>Tennessin</h1>
 
-- Trap$tar
+- Alias (Trap$tar)
 - 17
 - Denmark
 - 3D Modeller (Clothing & Mappings)
