@@ -3,7 +3,7 @@
 - Alias (Trap$tar)
 - 17
 - Denmark
-- 3D Modeller (Clothing & Mappings)
+- 3D Modeler (Clothing & Mappings)
 - Sexually attracted to black women.
 - https://www.gta5-mods.com/users/Tennessin
 
