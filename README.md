@@ -17,11 +17,12 @@
 <h2 align="center">Current projects</h2>
 
 (Newest -> Oldest)
-- [ARMA RP](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
+- [VESPER RP](https://discord.gg/vesper) *(FiveM Semi-RP/Fragging server)*
 
 <h2 align="center">Past projects</h2>
 
 (Newest -> Oldest)
+- [ARMA RP](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
 - [Proper British Roleplay](https://discord.gg/pbrp) *(FiveM UK based Serious Roleplay Server)*
 - [British Studios](https://britishstudios.tebex.io/) *(British based 3D development & Modding Hub)*
 - [British Life Roleplay](https://britishstudios.tebex.io/) *(FiveM UK based Serious Roleplay Server)*
