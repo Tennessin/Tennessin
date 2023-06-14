@@ -28,7 +28,7 @@
 
 <h2 align="center">Contact</h2>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/931136101295489025?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Black%20Women)](https://discord.com/users/931136101295489025)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/931136101295489025?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Black%20Women)](https://discord.com/users/1050751693761040444)
 
 <img src="https://komarev.com/ghpvc/?username=elfbars&color=blue" alt="fax" width="" height="">
 
