@@ -6,9 +6,9 @@
 - 3D Modeller - https://www.gta5-mods.com/users/Tennessin
 
 <p align="center">
-<a href="https://twitter.com/vesperstudios/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
-<a href="(https://www.tiktok.com/@ayz.lavish)" target="blank"><img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="tiktok" height="20" width="20" /></a>
-  <a href="https://twitch.tv/trapstaruk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
+<a href="https://twitter.com/cphrp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
+<a href="(https://www.tiktok.com/@cphrp)" target="blank"><img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="tiktok" height="20" width="20" /></a>
+  <a href="https://twitch.tv/xmpp.jp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
 <a href="https://youtube.com/UCoDjkbTgNaHveQgphhAz82g/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
 </p>
 
