@@ -1,7 +1,7 @@
 <h1>Tennessin</h1>
 
 - Tennessin
-- 17
+- 18
 - Self taught Developer
 - 3D Modeller - https://www.gta5-mods.com/users/Tennessin
 
@@ -16,8 +16,6 @@
 
 (Newest -> Oldest)
 - [CPH RP](https://discord.gg/vesper) *(FiveM Semi-RP/Fragging server)*
-
-- [VESPER RP](https://discord.gg/vesper) *(FiveM Semi-RP/Fragging server)*
 
 <h2 align="center">Past projects</h2>
 
