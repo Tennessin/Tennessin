@@ -16,7 +16,7 @@
 <h2 align="center">Current projects</h2>
 
 (Newest -> Oldest)
-- [CPH RP](https://discord.gg/vesper) *(FiveM Semi-RP/Fragging server)*
+- [The Ends](https://discord.gg/theends) *(FiveM UK / Serious RP server) (Windy city inspired)*
 
 <h2 align="center">Past projects</h2>
 
