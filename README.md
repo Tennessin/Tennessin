@@ -21,8 +21,6 @@
 <h2 align="center">Past projects</h2>
 
 (Newest -> Oldest)
-- [Proper British Roleplay](https://discord.gg/pbrp) *(FiveM UK based Serious Roleplay Server)*
-- [British Life Roleplay](https://britishstudios.tebex.io/) *(FiveM UK based Serious Roleplay Server)*
 - [VESPER](https://discord.gg/vesper) *(FiveM Semi-RP/ UK Fragging server)*
 - [ARMA Studios](https://discord.gg/arma5m) *(FiveM Semi-RP/ UK Fragging server)*
 - [CPH Studios](https://discord.gg/cphstudios) *(Scandinavian FiveM Semi-RP/Fragging server)*
