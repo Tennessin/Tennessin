@@ -21,9 +21,9 @@
 <h2 align="center">Past projects</h2>
 
 (Newest -> Oldest)
-- [VESPER](https://discord.gg/vesper) *(FiveM Semi-RP/ UK Fragging server)*
-- [ARMA Studios](https://discord.gg/arma5m) *(FiveM Semi-RP/ UK Fragging server)*
-- [CPH Studios](https://discord.gg/cphstudios) *(Scandinavian FiveM Semi-RP/Fragging server)*
+- [VESPER](https://discord.gg/vesper) *(FiveM Semi / UK Fragging server)*
+- [ARMA Studios](https://discord.gg/arma5m) *(FiveM Semi / UK Fragging server)*
+- [CPH Studios](https://discord.gg/cphstudios) *(Scandinavian Semi / Fragging)*
 
 
 
