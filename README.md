@@ -1,6 +1,6 @@
 <h1>Tennessin</h1>
 
-- Tennessin / Slimey Sl1me
+- Tennessin / Slimey Sl1me / Slime
 - 21
 - Self taught Developer
 - 3D Modeller - https://www.gta5-mods.com/users/Tennessin
@@ -47,6 +47,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=elfbars&color=blue" alt="fax" width="" height="">
 
-<h2 align="center">Stats</h2>
+<h2 align="center">stats</h2>
 
-![Tennessin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tennessin&count_private=true&show_icons=true&theme=onedark)
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwt&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kwt&hide_border=true&card_width=338&theme=transparent" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwt&layout=compact&theme=transparent"/>
+<img src="https://komarev.com/ghpvc/?username=kwt&color=lightgray" alt="fax" width="" height=""><a href="https://t.me/squirted/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="20" width="20" /></a>
+<p align="center">
+<img alt="gengar" src="https://media.tenor.com/rcuxuxJjDcoAAAAC/pok%C3%A9mon-gengar.gif">
+</p>
