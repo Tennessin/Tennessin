@@ -53,12 +53,6 @@ Whats a boolean?
 
 <h2 align="center">stats</h2>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tennessin&theme=transparent"
-    alt="GitHub profile summary"
-  />
-</p>
 
 <p align="center">
   <img
@@ -67,12 +61,6 @@ Whats a boolean?
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tennessin&layout=compact&theme=transparent&hide_border=true"
-    alt="Top languages"
-  />
-</p>
 
 <p align="center">
   <img
