@@ -15,17 +15,21 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="nodejs" height="20" width="20" />
 </p>
 
+<h2 align="center">socials</h2>
+
 <p align="center">
-<a href="https://twitter.com/cphrp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
-<a href="(https://www.tiktok.com/@cphrp)" target="blank"><img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="tiktok" height="20" width="20" /></a>
-  <a href="https://twitch.tv/xmpp.jp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
-<a href="https://youtube.com/UCoDjkbTgNaHveQgphhAz82g/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
+<a href="https://instagram.com/slimeysl1me/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="20" width="20" /></a>
+<a href="(https://www.tiktok.com/@slimeysl1me)" target="blank"><img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="tiktok" height="20" width="20" /></a>
+  <a href="https://twitch.tv/slimeysl1me/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
+<a href="https://youtube.com/@shotbysl1me/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
 </p>
 
 <h2 align="center">Current projects</h2>
 
 (Newest -> Oldest)
 - [The Ends](https://discord.gg/theends) *(FiveM UK / Serious RP server) (Windy city inspired)*
+- [Steeze Clips](https://steezeclips.com) *(Clipping & Marketing Agency)*
+
 
 <h2 align="center">Past projects (FiveM / CFX.re)</h2>
 
