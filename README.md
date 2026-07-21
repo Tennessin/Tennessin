@@ -1,10 +1,14 @@
 <h1>Tennessin</h1>
 
 - Tennessin / Slimey Sl1me / Slime
-- 21
-- Self taught Developer
-- 3D Modeller - https://www.gta5-mods.com/users/Tennessin
-- Cybersec Student (CompTIA, CompTIA IT Fundamentals+, CompTIA A+ Core 1 and Core 2, CompTIA Network+, CompTIA Cloud+, CompTIA ITIL Foundations, Microsoft Windows, Cisco CCNA)
+- Self-taught Web & Backend Developer
+- 3D Modeller - ([GTA5Mods Profile](https://www.gta5-mods.com/users/Tennessin))
+- Cybersec Student 
+- 4+ Years Experience Cfx.re / FiveM Modding [(CFX Profile) ](https://forum.cfx.re/u/sorry4thewait)
+
+Whats a boolean? 
+
+(CompTIA, CompTIA IT Fundamentals+, CompTIA A+ Core 1 and Core 2, CompTIA Network+, CompTIA Cloud+, CompTIA ITIL Foundations, Microsoft Windows, Cisco CCNA)
 
 <h2 align="center">langs</h2>
 
