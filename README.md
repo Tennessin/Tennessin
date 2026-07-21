@@ -1,10 +1,19 @@
 <h1>Tennessin</h1>
 
-- Tennessin
+- Tennessin / Slimey Sl1me
 - 21
 - Self taught Developer
 - 3D Modeller - https://www.gta5-mods.com/users/Tennessin
-- Cybersec Student
+- Cybersec Student (CompTIA, CompTIA IT Fundamentals+, CompTIA A+ Core 1 and Core 2, CompTIA Network+, CompTIA Cloud+, CompTIA ITIL Foundations, Microsoft Windows, Cisco CCNA)
+
+<h2 align="center">langs</h2>
+
+<p align="center">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/lua.svg" alt="lua" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg" alt="csharp" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="nodejs" height="20" width="20" />
+</p>
 
 <p align="center">
 <a href="https://twitter.com/cphrp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
@@ -18,12 +27,13 @@
 (Newest -> Oldest)
 - [The Ends](https://discord.gg/theends) *(FiveM UK / Serious RP server) (Windy city inspired)*
 
-<h2 align="center">Past projects</h2>
+<h2 align="center">Past projects (FiveM / CFX.re)</h2>
 
 (Newest -> Oldest)
-- [VESPER](https://discord.gg/vesper) *(FiveM Semi / UK Fragging server)*
-- [ARMA Studios](https://discord.gg/arma5m) *(FiveM Semi / UK Fragging server)*
-- [CPH Studios](https://discord.gg/cphstudios) *(Scandinavian Semi / Fragging)*
+- [VESPER](https://discord.gg/vesper) *(FiveM Semi / UK Fragging server)* (2023-2023) 
+- [ARMA Studios](https://discord.gg/arma5m) *(FiveM Semi / UK Fragging server)* (2022-2023)
+- [CPH Studios](https://discord.gg/cphstudios) *(Scandinavian Semi / Fragging)* (2023-2024)
+- [British Life Roleplay](https://discord.gg/britishliferoleplay) *(British Semi / Economy)* (2021-2022)
 
 
 
