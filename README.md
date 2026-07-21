@@ -54,20 +54,29 @@ Whats a boolean?
 <h2 align="center">stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tennessin&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tennessin&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tennessin&layout=compact&theme=transparent" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tennessin&theme=transparent"
+    alt="GitHub profile summary"
+  />
 </p>
 
 <p align="center">
   <img
-    src="./assets/lil-jeff.gif"
+    src="https://streak-stats.demolab.com?user=Tennessin&theme=transparent&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tennessin&layout=compact&theme=transparent&hide_border=true"
+    alt="Top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Tennessin/Tennessin/main/assets/lil-jeff.gif"
     alt="Lil Jeff Bloodhound"
     width="500"
   />
