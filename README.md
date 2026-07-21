@@ -49,10 +49,9 @@
 
 <h2 align="center">stats</h2>
 
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwt&theme=transparent" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kwt&hide_border=true&card_width=338&theme=transparent" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwt&layout=compact&theme=transparent"/>
-<img src="https://komarev.com/ghpvc/?username=kwt&color=lightgray" alt="fax" width="" height=""><a href="https://t.me/squirted/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="20" width="20" /></a>
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tennessin&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tennessin&hide_border=true&card_width=338&theme=transparent" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tennessin&layout=compact&theme=transparent"/>
 <p align="center">
-<img alt="gengar" src="https://media.tenor.com/rcuxuxJjDcoAAAAC/pok%C3%A9mon-gengar.gif">
+<img alt="gengar" src="https://cdn.discordapp.com/attachments/1492153354363736134/1515835165958602813/9wngm6.gif?ex=6a6091c2&is=6a5f4042&hm=78431041a9ad8df69f70e81581f3c73c5f955cdd13c301b32074b2965b0755e1&">
 </p>
