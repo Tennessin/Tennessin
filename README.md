@@ -53,9 +53,18 @@ Whats a boolean?
 
 <h2 align="center">stats</h2>
 
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tennessin&theme=transparent" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tennessin&hide_border=true&card_width=338&theme=transparent" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tennessin&layout=compact&theme=transparent"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tennessin&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tennessin&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tennessin&layout=compact&theme=transparent" />
+</p>
+
 <p align="center">
   <img
     src="./assets/lil-jeff.gif"
