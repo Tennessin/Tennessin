@@ -57,5 +57,9 @@ Whats a boolean?
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tennessin&hide_border=true&card_width=338&theme=transparent" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tennessin&layout=compact&theme=transparent"/>
 <p align="center">
-<img alt="lil-jeff-bloodhound-lil-jeff" src="https://media.tenor.com/9wyeXcV15Y0AAAAC/lil-jeff-bloodhound-lil-jeff.gif">
+  <img
+    src="./assets/lil-jeff.gif"
+    alt="Lil Jeff Bloodhound"
+    width="500"
+  />
 </p>
