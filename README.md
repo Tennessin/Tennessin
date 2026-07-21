@@ -57,5 +57,5 @@ Whats a boolean?
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tennessin&hide_border=true&card_width=338&theme=transparent" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tennessin&layout=compact&theme=transparent"/>
 <p align="center">
-<img alt="gengar" src="https://media.tenor.com/9wyeXcV15Y0AAAAC/lil-jeff-bloodhound-lil-jeff.gif">
+<img alt="gengar" src="https://media.tenor.com/rcuxuxJjDcoAAAAC/pok%C3%A9mon-gengar.gif">
 </p>
